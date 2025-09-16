@@ -18,7 +18,11 @@ Demonstrate real-world enterprise network design with high availability, securit
 ## Files
 - project.pkt → Cisco Packet Tracer file of the network
 
+- ## topology
+  ![topology] (topology.png)
+
 ---
 
 💡 *Note:* Open the .pkt file in Cisco Packet Tracer to simulate and explore the network.
+
 
