@@ -5,6 +5,7 @@ Simulation of a real-world enterprise network with HQ and Branch office, focusin
 
 ## Key Configurations
 - *Routing:* OSPF, Static & Floating Static Routes, VLAN Routing
+  
 - *Switching & High Availability:* VLAN Segmentation, EtherChannel, RSTP
 - *Security:* ACLs, DHCP Snooping, ARP Inspection, IP Source Guard, Private VLANs, AAA, SSH
 - *IP Telephony:* IP Phones with QoS
@@ -20,3 +21,4 @@ Demonstrate real-world enterprise network design with high availability, securit
 ---
 
 💡 *Note:* Open the .pkt file in Cisco Packet Tracer to simulate and explore the network.
+
